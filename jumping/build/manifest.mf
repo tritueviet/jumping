@@ -1,0 +1,7 @@
+MIDlet-1: Jumping,/icon.png,Jump.SantaJump
+MIDlet-Permissions-Opt: javax.microedition.io.Connector.sensor, javax.microedition.sensor.PrivateSensor, javax.microedition.sensor.ProtectedSensor
+MIDlet-Vendor: Vu Van Tuong
+MIDlet-Name: Jumping
+MIDlet-Version: 1.5
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

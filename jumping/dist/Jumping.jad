@@ -1,0 +1,9 @@
+MIDlet-1: Jumping,/icon.png,Jump.SantaJump
+MIDlet-Jar-Size: 506814
+MIDlet-Jar-URL: Jumping.jar
+MIDlet-Name: Jumping
+MIDlet-Permissions-Opt: javax.microedition.io.Connector.sensor, javax.microedition.sensor.PrivateSensor, javax.microedition.sensor.ProtectedSensor
+MIDlet-Vendor: Vu Van Tuong
+MIDlet-Version: 1.5
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
